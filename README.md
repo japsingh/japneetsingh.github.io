@@ -1,2 +1,2 @@
-# japneetsingh.github.io
+# japsingh.github.io
 Japneet Singh's site
